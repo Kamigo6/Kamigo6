@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Ngo Quang Minh 
 - 👀 I’m interested in Playing video games, music, coding
 - 🌱 I’m currently learning ICT at Hust
-- 💞️ I’m looking to collaborate on my project (in the future)
-- 📫 How to reach me (i will let u know in the future)
+- 💞️ I’m looking for new insights and i can share mine too
+- 📫 How to reach me:(Outlook) Minh.NQ205163@sis.hust.edu.vn
+
 
 <!---
 Kamigo6/Kamigo6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
