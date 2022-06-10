@@ -2,7 +2,7 @@
 - 👀 I’m interested in Playing video games, music, coding
 - 🌱 I’m currently learning ICT at Hust
 - 💞️ I’m looking for new insights and i can share mine too
-- 📫 How to reach me:(Outlook) Minh.NQ205163@sis.hust.edu.vn
+- 📫 How to reach me: (Outlook) Minh.NQ205163@sis.hust.edu.vn
 
 
 <!---
