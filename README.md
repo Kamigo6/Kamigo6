@@ -16,7 +16,7 @@
 
 🚀 I'm also taking my internship as AI Intern at [FPT Software](https://fptsoftware.com/) 🚀
 
-💞️ I’m looking for new insights in Machine Learning/AI/Deep Learning and I can share mine too 💞️
+💞️ I’m looking for new insights in Machine Learning/AI/Data Science/Data Engineer and I can share mine too 💞️
 
  </div>
  
