@@ -14,7 +14,7 @@
 
 🖥️ I’m currently learning ICT at HUST, VietNam 🖥️
 
-🚀 I'm also taking my internship as AI Intern at [FPT Software](https://fptsoftware.com/) 🚀
+🚀 I'm also taking my gap year (will return soon) 🚀
 
 💞️ I’m looking for new insights in Machine Learning/AI/Data Science/Data Engineer and I can share mine too 💞️
 
