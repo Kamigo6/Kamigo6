@@ -12,7 +12,7 @@
 
 👀 I’m interested in Playing video games, music, coding, reading books 👀
 
-🖥️ I’m currently learning ICT at HUST, VietNam 🖥️
+🖥️ I’m currently majoring in Computer Science at HUST, VietNam 🖥️
 
 🚀 I'm also taking my gap year (will return soon) 🚀
 
