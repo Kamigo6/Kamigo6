@@ -14,9 +14,9 @@
 
 🖥️ I’m currently majoring in Computer Science at HUST, VietNam 🖥️
 
-🚀 I'm also taking my gap year (will return soon) 🚀
+🚀 I'm also working as Data Engineer at Mobifone IT 🚀
 
-💞️ I’m looking for new insights in Machine Learning/AI/Data Science/Data Engineer and I can share mine too 💞️
+💞️ I’m looking for new insights in Database/Data Science/Data Engineer and I can share mine too 💞️
 
  </div>
  
