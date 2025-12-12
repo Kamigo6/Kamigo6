@@ -36,12 +36,3 @@
     <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,nodejs,md,kotlin,latex" />
     <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,vscode,opencv,mongodb,matlab,postgres,express,firebase,git,postman,react" /><br>
 </div>
-
-<h2 align="center">📊 GitHub Stats 📊</h2>
-
-<div align=center>
-  <img width=390 height = 200 src="https://github-readme-streak-stats.herokuapp.com/?user=Kamigo6&theme=dark&hide_border=false" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamigo6&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
-</div>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
